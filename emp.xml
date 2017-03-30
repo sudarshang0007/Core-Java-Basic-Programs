@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+
+	<Employee id="1" firstname="sudarshan" lastname="gaikwad">
+		<Address city="solapur" zip="413101"></Address>
+		<role>Corporate trainee</role>
+	</Employee>
+
+	<Employee id="2" firstname="sudarshan" lastname="Hagvanae">
+		<Address city="pune" zip="411052"></Address>
+		<role>Permanent</role>		
+	</Employee>
+
+</Employees>
